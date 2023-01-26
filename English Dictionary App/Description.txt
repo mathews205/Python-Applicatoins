@@ -1,0 +1,7 @@
+NB:-
+*Json file type is created using the python syntax
+*while Loop used to 
+	-Add new words and it's meaning
+	-View Words and it's meaning
+	-Update meaning of existing words
+	-Delete and destroying the whole program
