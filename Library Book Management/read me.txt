@@ -1,0 +1,5 @@
+NB:-
+*Project collects details of author and book details and stores it using SQL (library-sqlite3)
+*View using  1 of 3  GUI created using tkinter library
+*Can delete and update book and author details using the same GUI
+*Different gadgets like buttons, labels, titles, entries, etc are used for easy visualization and use.
