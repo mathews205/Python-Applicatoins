@@ -1,0 +1,6 @@
+NB"-
+*Using numpy, pandas libraries to import and perform various tasks in CSV files.
+*Nulls in CSV file are counted and replacing them.
+*Statistical concepts to find outliers and replace them.
+*Duplicates rows are dropped.
+*Functions to Grouped by different categories, merging 2 csv files and case corrections are used.
